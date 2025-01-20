@@ -11,6 +11,9 @@
 <br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSeongWoo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 
 # 🖥️ Project
 
@@ -81,8 +84,3 @@
 <a href="mailto:csw10211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:csw10211@gmail.com" />
 </a>
-
-
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSeongWoo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
