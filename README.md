@@ -20,13 +20,13 @@
 ## Main Project
 
 ### 1. 📖자유롭게 전공책 거래(자전거)
-> - 간단소개 : 대학생 전공책 중고 거래 및 소통 커뮤니티
+> - 간단소개 : 대학생 전공책 중고 거래 및 학교,학과,학과계열 소통 커뮤니티
 > - 분류 : 팀 프로젝트(캡스톤)
 > - 제작기간 : 22.03 ~ 22.06
 > -  역할 : 로그인, 회원가입, 중고거래, 커뮤니티 부분 개발 및 네이버 지도 및 파이어베이스 api 설정, DB설계 담당
 >> 프론트 엔드
->> - Language : java
->> - Skill : Android Development, Firebase, NaverAPI
+>> - Language : Java
+>> - Skill : Android Development, Firebase, NaverAPI, Zxing
 >> 
 >> [프로젝트 상세 설명](https://github.com/SseongWoo/jajeongeo?tab=readme-ov-file)
 
